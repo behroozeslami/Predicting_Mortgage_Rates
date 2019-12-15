@@ -1,0 +1,2 @@
+# Predicting_Mortgage_Rates
+This competition formed the capstone project for the Microsoft Professional Program in Data Science. Based on the Home Mortgage Disclosure Act (HMDA), I used a gradient boosting algorithm (from XGBoost package in Python) to predict the mortgage rate from variables concerning property location, loan characteristics, applicant information and lender identity. The optimized model was able to explain %74 of the variance in the test set
